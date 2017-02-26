@@ -3,7 +3,7 @@
 ###Instalación del entorno de desarrollo
 1. Ir a https://processing.org/download
 2. Elegir la opción “no donation” (siempre podremos donar después) y pinchar en “Download”
-3. Descargar la versión correspondiente al sistema operativo que tengamos. En estos momentos, la versión más reciente es la 3.2.4
+3. Descargar la versión correspondiente al sistema operativo que tengamos. En estos momentos, la versión más reciente es la 3.3
 4. Instalar el fichero descargado
 
 ###Instalación de las librerías
